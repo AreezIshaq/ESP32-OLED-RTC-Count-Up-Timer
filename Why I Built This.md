@@ -15,10 +15,26 @@ Future Plans
 This project will become part of a larger ESP32 Smart Alarm Clock that will include:
 
 Alarm system
+
+
+
+
 OLED menu interface
+
+
 Pixel animations
+
+
 Motion-controlled alarm dismissal
+
+
 Buzzer
+
+
 Multiple alarms
+
+
 EEPROM storage
+
+
 Weather information
