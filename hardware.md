@@ -13,12 +13,3 @@ Jumper Wires
 
 
 
-Libraries Used
-
-Wire
-
-RTClib
-
-Adafruit GFX
-
-Adafruit SH110X (or SSD1306 depending on display)
